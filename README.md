@@ -2,6 +2,9 @@
 
 An AI-powered public policy impact simulator that helps users understand how policies affect them personally using Google Gemini AI.
 
+## Demo Link
+https://policy-lens-ai-psi.vercel.app/
+
 ## 🌟 Features
 
 - **Multiple Input Methods**: Paste policy text, upload PDF documents, or select from example policies
